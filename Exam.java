@@ -1,3 +1,6 @@
+
+
+
 class Exam extends Student
 {
 	int m1,m2,m3;
